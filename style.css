@@ -14,6 +14,16 @@
 	background-color: gray;
 }
 
+#post
+{
+	text-align: center;
+	background-color: gray;
+	width: 500px;
+	margin: 0 auto;
+	border-width: 10px;
+	border-style: dotted;
+}
+
 #buttonbox
 {
 	text-align: center;
@@ -28,6 +38,11 @@
 }
 
 h1
+{
+	margin: 0 auto;
+}
+
+h2
 {
 	margin: 0 auto;
 }
