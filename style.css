@@ -1,0 +1,53 @@
+#margin
+{
+	width: 1000px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: white;
+	border-style: groove;
+	border-width: 10px;
+}
+
+#box
+{
+	text-align: center;
+	background-color: gray;
+}
+
+#buttonbox
+{
+	text-align: center;
+	background-color: black;
+}
+
+#boxresto
+{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+h1
+{
+	margin: 0 auto;
+}
+
+h3
+{
+	margin: 0 auto;
+}
+
+body
+{
+	text-align: center;
+	background-image: url('background.jpg');
+}
+
+button
+{
+	color: blue;
+	background-color: darkgray;
+	margin-left: 20 px;
+	height: 1000 px;
+	width: 250 px;
+}
